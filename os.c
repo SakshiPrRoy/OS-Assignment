@@ -8,7 +8,7 @@ int main()
     char Process_Name[10][10],t[10];
 
 
-    printf("Enter the number of Process:");
+    printf("Enter The Number of Process:");
     scanf("%d",&n);
     for(i=0; i<n; i++)
     {
